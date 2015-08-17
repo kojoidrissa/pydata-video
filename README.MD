@@ -1,2 +1,1 @@
-#Repo for my Python for Data Analysis code
-practice projects from videos and the book
+#Repo for my Python for Data Analysis code from the "Python for Data Analysis" tutorial videos from StrataConf 2013
